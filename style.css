@@ -1,20 +1,47 @@
 body{
-    background-color: rgb(36, 191, 238);
-}
-.tablaContactos{
-    background-color: white;
-    padding: 15px;
+    background-color: rgb(22, 119, 148);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
 }
 img{
-    width: 100px;
+    width: 80px;
     border-radius: 50%;
 }
 .filaContactos{
     display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.tablaContactos{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+
 }
 .textoCoplero{
+    display: flex;
+    flex-direction: column;
     padding-left: 15px;
 }
-h5{
+h4{
     margin-bottom: 0;
+    color: rgb(85, 85, 85);
+}
+p{
+    color: rgb(182, 182, 182);
+    margin: 0;
+    margin-top: 5px;
+}
+hr{
+    border-color: rgb(214, 213, 213);
+    border-width: 1px;
+    border-style: solid;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#fotoLola{
+    height: 80px;
 }
