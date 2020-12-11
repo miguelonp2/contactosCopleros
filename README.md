@@ -1,2 +1,4 @@
 # contactosCopleros
-Práctica de css y html. Fuente: https://github.com/TheBridge-FullStackDeveloper/css-kata-contactos-copleros
+Práctica de css y html.
+## Display & Position
+Fuente: https://github.com/TheBridge-FullStackDeveloper/css-kata-contactos-copleros
